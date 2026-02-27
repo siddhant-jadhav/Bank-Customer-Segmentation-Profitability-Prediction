@@ -94,9 +94,9 @@ The app will open at **http://localhost:8501**.
 | Role | Responsibility |
 |---|---|
 | **A** | Data Preparation & Exploratory Data Analysis |
-| **S** | K-Means Clustering |
+| **S** | K-Means Clustering & Streamlit Deployment & UI & Documentation  |
 | **AS** | Logistic Regression Prediction & Business Risk Evaluation |
-| **Y** | Streamlit Deployment & UI |
+| **Y** | Testing |
 
 ---
 
